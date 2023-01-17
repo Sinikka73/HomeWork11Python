@@ -16,4 +16,3 @@ for word in my_lst:
     print(a, type(a))
     b = bytes.decode(a, 'utf-8')
     print(b, type(b))
-

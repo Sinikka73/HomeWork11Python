@@ -13,7 +13,5 @@
 
 my_lst = [b"class", b"function", b"method"]
 
-
 for word in my_lst:
     print(f'Содержание: {word}, {type(word)}, длина: {len(word)}')
-
